@@ -2,12 +2,17 @@
 
 - includes the standard counter demo of the Vite starter in [Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html) style
 
-<kbd>
-<img src="./src/assets/screenshot.png" width=600 />
+### [see it here deployed on Vercel](https://vue3-starter.vercel.app/)
+
+ <kbd>
+  
+[<img src="./src/assets/screenshot.png" width=600/>](https://vue3-starter.vercel.app/)
+
 </kbd>
 
+
 <hr>
-<br>
+
 
 ## DIY steps:
 
